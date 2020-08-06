@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Simple Calc</string>
+
+
+    <string-array name="list_operator">
+        <item>Ditambah</item>
+        <item>Dikurang</item>
+        <item>Dikali</item>
+        <item>Dibagi</item>
+    </string-array>
+
+</resources>
